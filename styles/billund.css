@@ -1,11 +1,12 @@
 /** layout.css overrides **/
 
 #site-name a{
-  float: right;
-  height:38px; 
-  width:266px; 
+  position: relative;
+  left: -10px;
+  height:38px;
+  width:266px;
   background: url(../images/logo.png) no-repeat scroll 0 0 transparent;
   display: block;
   overflow: hidden;
-} 
+}
 
